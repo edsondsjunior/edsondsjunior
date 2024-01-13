@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Atualmente estou trabalhando com **No ramo Hotelaria**
+- 🔭 Atualmente estou estudando **Analise e desenvolvimento de sistemas**
 
 - 📫 Como entrar em contato comigo **edsondsjunior@hotmail.com**
 

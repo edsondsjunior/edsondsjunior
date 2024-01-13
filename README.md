@@ -1,7 +1,7 @@
 <h1 align="center">oi 👋, sou Edson dos santos junior</h1>
 <h3 align="center">Um desenvolvedor em construção</h3>
 
-<p align="left"> <img src="https ://komarev.com/ghpvc/?username=edsondsjunior&label=Profile%20views&color=0e75b6&style=flat" alt="edsondsjunior" /> </p>
+
 
 - 🔭 Atualmente estou trabalhando com **No ramo Hotelaria**
 
